@@ -6,7 +6,6 @@ It connects bus travellers with a network of over 2500 bus operators, across Ind
 
 In this project , we have tried to make a perfect clone of redbus.in.
 
-### Live Link :  https://redbus.netlify.app/
 
 # Steps to install the project:
 
